@@ -4,7 +4,6 @@ public class Sub {
         int b = 2;
         int c = a * b;
         c= a+b;
-        c=a-b;
         System.out.println("C = " + c);
     }
 }
